@@ -4,6 +4,8 @@ Both programs for both Part 1 and Part 2 of this assignment are stored in folder
 
 All sources referenced in code comments correspond to refernces listed below in this README. For example, reference (1) in code corresponds to source (1) in this README.
 
+A .csv output, per assignment instrcutions, is also stored in the 'Scrapers' folder. This file is named 'data.csv'.
+
 # Part 1: Scrape Titles and Preview Text from Mars News
 (1) Module 11; Lesson 2; Activity 5; stack_overflow_solution.ipynb
 
